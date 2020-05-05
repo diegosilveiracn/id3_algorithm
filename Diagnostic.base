@@ -1,0 +1,9 @@
+Come,Idade,Vegetariano,Diabético,Classe
+Pouco,Velho,Sim,Sim,Magro
+Médio,Velho,Sim,Não,Magro
+Muito,Velho,Não,Sim,Gordo
+Pouco,Velho,Não,Não,Magro
+Médio,Jovem,Não,Sim,Gordo
+Pouco,Jovem,Sim,Não,Magro
+Muito,Velho,Não,Não,Gordo
+Médio,Jovem,Não,Sim,Gordo
